@@ -123,11 +123,11 @@ nav ul li a:hover::after{
 }
 
 .hero_title h1{
-    font-size: 60px;
+    font-size: 55px;
     
 }
 .hero_title h1 span{
-    font-size: 90px;
+    font-size: 70px;
 }
 
 .inner_hero .hero_title h5{
